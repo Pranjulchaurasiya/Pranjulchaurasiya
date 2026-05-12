@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# Hey, I'm Pranjul Chaurasiya 👋<br><br>I build AI systems that actually do something useful — not demos, not tutorials, real tools.<br>Final year B.Tech in AI & Data Science. I move fast, ship things, and figure out hard problems.<br><br>🏆 **1st Place — Gemini & Firebase Buildathon 2025** *(250+ participants)*<br><br>---<br><br>## 🔹 What I'm Into<br><br>- Building with LLMs — agents, RAG pipelines, decision systems<br>- Data Engineering & Analytics<br>- Backend systems that scale<br>- Optimization problems (scheduling, routing, constraint solving)<br>- AI Safety & Formal Verification *(the nerdy side)*<br><br>---<br><br>## 🔹 Stack<br><br>**Languages** — Python, SQL, Java, JavaScript  <br>**Backend** — Flask, FastAPI  <br>**ML/Data** — scikit-learn, Pandas, NumPy  <br>**AI/GenAI** — Gemini AI, LangChain, OR-Tools, RAG  <br>**Cloud & Infra** — Firebase, AWS, Google Cloud  <br>**Tools** — MySQL, Git, GitHub<br><br>---<br><br>## 🔹 Things I've Built<br><br>### 🚆 AI-Powered Train Traffic Decision System<br>Won 1st place with this. Built a conflict-free train scheduling engine using Gemini AI + OR-Tools for real-time optimization and decision support. Not a toy — a working system that handles actual constraint solving at scale.<br>> Python · Gemini AI · OR-Tools · Firebase<br><br>### 🧠 AI Flowchart Maker<br>Type a prompt, get a flowchart. Simple idea, surprisingly hard to get right. Built the full pipeline from NLP to diagram rendering.<br>> Flask · Gemini · JavaScript<br><br>### 📚 Book Recommendation System<br>Content-based recommendation engine using TF-IDF and cosine similarity. Clean, fast, and explainable.<br>> Python · Flask · Pandas · scikit-learn<br><br>---<br><br>## 🔹 Currently Digging Into<br><br>- AI Agents & agentic workflows<br>- Data Engineering at scale<br>- LLM application design<br>- Formal Verification & AI Safety<br>- Scalable AI system architecture<br><br>---<br><br>## 📫 Find Me Here<br><br>- 💼 [LinkedIn](https://www.linkedin.com/in/pranjul-chaurasiya-developers/)<br>- 🐙 [GitHub](https://github.com/Pranjulchaurasiya)<br>- 📊 [Kaggle](https://kaggle.com/pranjulchaurasiyadev)
 
-<!--
-**Pranjulchaurasiya/Pranjulchaurasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjul-chaurasiya-developers) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:research.pranjul@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pranjulchaurasiya&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pranjulchaurasiya&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjulchaurasiya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=Pranjulchaurasiya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
