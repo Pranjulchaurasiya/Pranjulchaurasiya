@@ -1,45 +1,115 @@
-## 👋 About Me
+<div align="center">
 
-Final year B.Tech student in AI & Data Science focused on building practical AI systems, optimization engines, and scalable AI applications.
+# Hey, I'm Pranjul Chaurasiya 👋
 
-🏆 1st Place — Gemini & Firebase Buildathon 2025 (250+ participants)
+**AI Developer · Builder · Optimization Nerd**
+
+I build AI systems that actually do something useful — not demos, not tutorials, real tools.
+Final year B.Tech in AI & Data Science. I move fast, ship things, and figure out hard problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjul-chaurasiya-developers)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:research.pranjul@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/pranjulchaurasiyadev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pranjulchaurasiya&style=flat&color=00d4aa)](https://github.com/Pranjulchaurasiya)
+
+</div>
 
 ---
 
-## 🔹 Interests
+## 🏆 Highlights
 
-- LLM Applications & AI Agents
-- Backend & Data Systems
-- Optimization Problems
-- AI Safety & Formal Verification
+> **1st Place — Gemini & Firebase Buildathon 2025** *(250+ participants)*
+> Built a conflict-free AI train scheduling system that solves real constraint optimization problems.
+
+---
+
+## 🔹 What I'm Into
+
+- 🤖 Building with LLMs — agents, decision systems, agentic workflows
+- 🏗️ Data Engineering & Analytics at scale
+- ⚙️ Optimization problems — scheduling, routing, constraint solving
+- 🔒 AI Safety & Formal Verification *(the nerdy side)*
+- 🚀 Scalable AI system architecture
+
+---
+
+## 🔹 Things I've Built
+
+### 🚆 AI-Powered Train Traffic Decision System
+Won 1st place with this. A conflict-free train scheduling engine using **Gemini AI + OR-Tools** for real-time optimization and decision support. Handles actual constraint solving at scale — deadlock prevention, multi-variable optimization, live scheduling.
+
+`Python` `Gemini AI` `OR-Tools` `Firebase`
+
+---
+
+### 🧠 AI Flowchart Maker
+Type a prompt, get a flowchart. Simple idea, surprisingly hard to get right. Built the full pipeline from NLP parsing → structure extraction → diagram rendering.
+
+`Flask` `Gemini` `JavaScript`
+
+---
+
+### 📚 Book Recommendation System
+Content-based recommendation engine using TF-IDF and cosine similarity. Clean, fast, and explainable — no black-box models.
+
+`Python` `Flask` `NumPy & Pandas` `scikit-learn`
 
 ---
 
 ## 🔹 Tech Stack
 
-**Languages:** Python, SQL, Java, JavaScript  
-**Backend:** Flask, FastAPI  
-**ML/Data:** Pandas, NumPy, scikit-learn  
-**AI/GenAI:** Gemini AI, LangChain, OR-Tools, RAG  
-**Cloud:** Firebase, AWS, Google Cloud
+**Languages**
+`Python` `SQL` `Java` `JavaScript`
+
+**Backend**
+`Flask` `FastAPI` `MySQL`
+
+**ML / Data**
+`scikit-learn` `Pandas` `NumPy`
+
+**AI / GenAI**
+`Gemini AI` `LangChain` `OR-Tools` `RAG`
+
+**Cloud & Infra**
+`Firebase` `AWS` `Google Cloud` `Git`
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 Currently Digging Into
 
-### 🚆 AI-Powered Train Traffic Decision System
-Built a conflict-free train scheduling engine using Gemini AI + OR-Tools for real-time optimization.
-
-### 🧠 AI Flowchart Maker
-AI-powered prompt-to-flowchart generation system with NLP + diagram rendering.
-
-### 📚 Book Recommendation System
-Content-based recommendation engine using TF-IDF and cosine similarity.
+- AI Agents & agentic workflows
+- Data Engineering at scale
+- LLM application design patterns
+- Formal Verification & AI Safety (mCRL2)
+- Scalable AI system architecture
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-- LinkedIn
-- GitHub
-- Kaggle
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pranjulchaurasiya&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 📫 Find Me Here
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranjul-chaurasiya-developers/)
+- 🐙 [GitHub](https://github.com/Pranjulchaurasiya)
+- 📊 [Kaggle](https://kaggle.com/pranjulchaurasiyadev)
+- 📧 [research.pranjul@gmail.com](mailto:research.pranjul@gmail.com)
+
+---
+
+<div align="center">
+
+*"I move fast, ship things, and figure out hard problems."*
+
+</div>
