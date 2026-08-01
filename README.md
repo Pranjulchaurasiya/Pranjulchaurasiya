@@ -7,11 +7,7 @@
 I build AI systems that actually do something useful — not demos, not tutorials, real tools.
 Final year B.Tech in AI & Data Science. I move fast, ship things, and figure out hard problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjul-chaurasiya-developers)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:research.pranjul@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/pranjulchaurasiyadev)
-[![Profile Views](https://komarev.com/ghpvc/?username=Pranjulchaurasiya&style=flat&color=00d4aa)](https://github.com/Pranjulchaurasiya)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjul-chaurasiya-developers) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:research.pranjul@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qsAYYR07rohFXMEhTaVSg_ZaKnd0MGr_/view?usp=sharing) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/pranjulchaurasiyadev) [![Profile Views](https://komarev.com/ghpvc/?username=Pranjulchaurasiya&style=flat&color=00d4aa)](https://github.com/Pranjulchaurasiya)
 </div>
 
 ---
