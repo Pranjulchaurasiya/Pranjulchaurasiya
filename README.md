@@ -34,7 +34,23 @@ Final year B.Tech in AI & Data Science. I move fast, ship things, and figure out
 ---
 
 ## 🔹 Things I've Built
+### 📊 AutoBI AI Analyst
 
+[#-autobi-ai-analyst](#-autobi-ai-analyst)
+
+GenAI-powered BI platform that turns raw datasets (CSV/Excel/PDF) into interactive dashboards, AI-generated executive summaries, and a RAG-backed conversational analyst. Dataset-agnostic schema detection — no hardcoded column names.
+
+`FastAPI` `Streamlit` `Groq LLaMA 3.3 70B` `LangChain` `ChromaDB`
+
+---
+
+### ✂️ SnipLint
+
+[#️-sniplint](#️-sniplint)
+
+A linter for LLM prompts — flags token waste, projects real cost across any model, and suggests concise rewrites. Zero API calls, runs entirely offline, same category of tool as ESLint but for prompt efficiency.
+
+`TypeScript` `CLI` `Tokenizers`
 ### 🚆 AI-Powered Train Traffic Decision System
 Won 1st place with this. A conflict-free train scheduling engine using **Gemini AI + OR-Tools** for real-time optimization and decision support. Handles actual constraint solving at scale — deadlock prevention, multi-variable optimization, live scheduling.
 
