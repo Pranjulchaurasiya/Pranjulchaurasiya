@@ -97,7 +97,8 @@ Content-based recommendation engine using TF-IDF and cosine similarity. Clean, f
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pranjulchaurasiya&theme=github-dark-blue&hide_border=true)
+[![GitHub Streak](https://vercel.app)](https://git.io/streak-stats)
+
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&layout=compact)
 
