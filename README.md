@@ -2,92 +2,67 @@
 
 # Hey, I'm Pranjul Chaurasiya 👋
 
-**AI Developer · Builder · Optimization Nerd**
+**AI Engineer · Constraint Optimization Specialist · Builder**
 
-I build AI systems that actually do something useful — not demos, not tutorials, real tools.
-Final year B.Tech in AI & Data Science. I move fast, ship things, and figure out hard problems.
+I build robust AI systems that solve complex, real-world constraints—not demos, not tutorials.  
+B.Tech in AI & Data Science. I move fast, design for scale, and verify for safety.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjul-chaurasiya-developers) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:research.pranjul@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qsAYYR07rohFXMEhTaVSg_ZaKnd0MGr_/view?usp=sharing) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/pranjulchaurasiyadev) [![Profile Views](https://komarev.com/ghpvc/?username=Pranjulchaurasiya&style=flat&color=00d4aa)](https://github.com/Pranjulchaurasiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjul-chaurasiya-developers) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:research.pranjul@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qsAYYR07rohFXMEhTaVSg_ZaKnd0MGr_/view?usp=sharing) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/pranjulchaurasiyadev) [![Profile Views](https://komarev.com/ghpvc/?username=Pranjulchaurasiya&style=flat-square&color=00d4aa)](https://github.com/Pranjulchaurasiya)
+
 </div>
 
 ---
 
-## 🏆 Highlights
+## 🏆 Key Credentials & Achievements
 
-> **1st Place — Gemini & Firebase Buildathon 2025** *(250+ participants)*
-> Built a conflict-free AI train scheduling system that solves real constraint optimization problems.
-
----
-
-## 🔹 What I'm Into
-
-- 🤖 Building with LLMs — agents, decision systems, agentic workflows
-- 🏗️ Data Engineering & Analytics at scale
-- ⚙️ Optimization problems — scheduling, routing, constraint solving
-- 🔒 AI Safety & Formal Verification *(the nerdy side)*
-- 🚀 Scalable AI system architecture
+*   🥇 **1st Place Winner** — Gemini & Firebase Buildathon 2025 *(GDG TFUG & OpsTree Solutions, Noida)*. Built a deadlock-free train scheduling decision support engine.
+*   🎓 **Selected Scholar** — Harvard Business School's Aspire Leaders Program 2024 *(focused on leadership development and social impact)*.
+*   👥 **Technical Lead** — DataVerse Club, Galgotias College *(2025 – Present)*. Mentoring 20+ junior engineers in analytics, AI architecture, and engineering principles.
+*   💻 **ML Summer School 2026** — Cohere Labs *(Open Science Community)*. Deep dive into large-scale NLP architectures and agentic alignment.
 
 ---
 
-## 🔹 Things I've Built
-### 📊 AutoBI AI Analyst
-GenAI-powered BI platform that turns raw datasets (CSV/Excel/PDF) into interactive dashboards, AI-generated executive summaries, and a RAG-backed conversational analyst. Dataset-agnostic schema detection — no hardcoded column names.
+## 🚀 Advanced Projects
 
-`FastAPI` `Streamlit` `Groq LLaMA 3.3 70B` `LangChain` `ChromaDB`
+### 🚆 [AI-Powered Train Traffic Decision System](https://github.com/Pranjulchaurasiya/Buildathon-Project)
+*Winner of the Gemini & Firebase Buildathon 2025*. A real-time, conflict-free rail scheduling system combining LLM reasoning with Google OR-Tools constraint solving. Prevents network deadlocks and dynamically schedules routing under live track constraints.
+`TypeScript` `Gemini AI` `OR-Tools` `Firebase` · [Live Demo](https://studio.firebase.google.com/studio-9777073027)
 
----
+### 📊 [AutoBI](https://github.com/Pranjulchaurasiya/Auto-BI)
+A dataset-agnostic Business Intelligence platform. Automatically infers schemas, runs pandas preprocessing, structures RAG vector stores (ChromaDB), and answers raw data queries with custom Plotly charts and AI executive summaries.
+`Python` `FastAPI` `Streamlit` `LLaMA 3.3 70B (Groq)` `ChromaDB` · [Live Demo](https://bit.ly/autobi-ai-analyst)
 
-### ✂️ SnipLint
-A linter for LLM prompts — flags token waste, projects real cost across any model, and suggests concise rewrites. Zero API calls, runs entirely offline, same category of tool as ESLint but for prompt efficiency.
+### 🛡️ [Safety-Assured Railway Optimization](https://github.com/Pranjulchaurasiya/safety-assured-railway-optimization)
+Safety-critical scheduling engine that mathematically proves scheduling decisions. Integrates OR-Tools with formal verification models coded in **mCRL2** to provide mathematically verified safety guarantees.
+`Python` `OR-Tools` `mCRL2` `Formal Verification`
 
+### ⚡ [Vigil](https://github.com/Pranjulchaurasiya/vigil)
+An adaptive server uptime monitor that uses reinforcement learning (Thompson Sampling). Dynamically scales probe frequencies—probing flaky endpoints more often and stable ones less often to conserve server network overhead.
+`FastAPI` `PostgreSQL` `Valkey` `Python`
+
+### 📦 [PIMpulse-AI](https://github.com/Pranjulchaurasiya/PIMpulse-AI)
+Autonomous enterprise product data enrichment and MDM data onboarding pipeline built for UniHack 2026. Employs multi-agent consensus to sanitize product data, match taxonomy schemas, and generate marketing descriptions.
+`Python` `Gemini` `FastAPI` `Agentic AI`
+
+### 🪃 [Boomerang](https://github.com/Pranjulchaurasiya/Boomerang)
+Idempotent browser-automation queue worker for processing returns. Features state detection, AWS SQS job queues, retries, and human-in-the-loop review routing.
+`Python` `Selenium` `AWS SQS` `Docker`
+
+### ✂ [SnipLint](https://github.com/Pranjulchaurasiya/SnipLint)
+An offline linter for LLM prompts to eliminate token waste. Measures costs, reviews structural redundancies, and rewrites prompts locally without making outbound API calls.
 `TypeScript` `CLI` `Tokenizers`
-### 🚆 AI-Powered Train Traffic Decision System
-Won 1st place with this. A conflict-free train scheduling engine using **Gemini AI + OR-Tools** for real-time optimization and decision support. Handles actual constraint solving at scale — deadlock prevention, multi-variable optimization, live scheduling.
-
-`Python` `Gemini AI` `OR-Tools` `Firebase`
 
 ---
 
-### 🧠 AI Flowchart Maker
-Type a prompt, get a flowchart. Simple idea, surprisingly hard to get right. Built the full pipeline from NLP parsing → structure extraction → diagram rendering.
+## 🛠️ Tech Stack
 
-`Flask` `Gemini` `JavaScript`
-
----
-
-### 📚 Book Recommendation System
-Content-based recommendation engine using TF-IDF and cosine similarity. Clean, fast, and explainable — no black-box models.
-
-`Python` `Flask` `NumPy & Pandas` `scikit-learn`
-
----
-
-## 🔹 Tech Stack
-
-**Languages**
-`Python` `SQL` `Java` `JavaScript`
-
-**Backend**
-`Flask` `FastAPI` `MySQL`
-
-**ML / Data**
-`scikit-learn` `Pandas` `NumPy`
-
-**AI / GenAI**
-`Gemini AI` `LangChain` `OR-Tools` `RAG`
-
-**Cloud & Infra**
-`Firebase` `AWS` `Google Cloud` `Git`
-
----
-
-## 🔹 Currently Digging Into
-
-- AI Agents & agentic workflows
-- Data Engineering at scale
-- LLM application design patterns
-- Formal Verification & AI Safety (mCRL2)
-- Scalable AI system architecture
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `SQL (Postgres/MySQL)`, `TypeScript`, `JavaScript`, `Java` |
+| **AI / GenAI** | `Gemini AI`, `LangChain`, `RAG`, `Prompt Engineering`, `Hugging Face` |
+| **Optimization** | `Google OR-Tools`, `CP-SAT`, `Constraint Optimization` |
+| **Formal Verification** | `mCRL2`, `UPPAAL` |
+| **Backend & Infra** | `FastAPI`, `Flask`, `Streamlit`, `AWS (EC2/SQS)`, `Firebase`, `Valkey`, `Docker` |
 
 ---
 
@@ -96,13 +71,9 @@ Content-based recommendation engine using TF-IDF and cosine similarity. Clean, f
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranjulchaurasiya)](https://git.io/streak-stats)
-
-
-
-
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranjulchaurasiya&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -110,10 +81,10 @@ Content-based recommendation engine using TF-IDF and cosine similarity. Clean, f
 
 ## 📫 Find Me Here
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranjul-chaurasiya-developers/)
-- 🐙 [GitHub](https://github.com/Pranjulchaurasiya)
-- 📊 [Kaggle](https://kaggle.com/pranjulchaurasiyadev)
-- 📧 [research.pranjul@gmail.com](mailto:research.pranjul@gmail.com)
+*   💼 **LinkedIn**: [/in/pranjul-chaurasiya-developers](https://www.linkedin.com/in/pranjul-chaurasiya-developers/)
+*   🐙 **GitHub**: [@Pranjulchaurasiya](https://github.com/Pranjulchaurasiya)
+*   📊 **Kaggle**: [@pranjulchaurasiyadev](https://kaggle.com/pranjulchaurasiyadev)
+*   📧 **Email**: [research.pranjul@gmail.com](mailto:research.pranjul@gmail.com)
 
 ---
 
