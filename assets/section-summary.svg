@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="50" viewBox="0 0 1120 50" fill="none">
+  <style>
+    .section-title { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 22px; font-weight: 800; fill: #ffffff; }
+  </style>
+  <text x="0" y="35" class="section-title">📊 Analytics &amp; Stats</text>
+  <line x1="205" y1="28" x2="1120" y2="28" stroke="#21262d" stroke-width="1.5" />
+</svg>
