@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-h4.vercel.app/" target="_blank">
+  <a href="(http://portfolio-pranjulgcet.vercel.app/)" target="_blank">
     <img src="assets/link-portfolio.svg" width="32%" alt="Portfolio Website">
   </a>&nbsp;
   <a href="https://linkedin.com/in/pranjul-chaurasiya-developers" target="_blank">
@@ -20,7 +20,7 @@
   <a href="mailto:research.pranjul@gmail.com">
     <img src="assets/link-gmail.svg" width="48.5%" alt="Email">
   </a>&nbsp;
-  <a href="https://x.com/pranjulchaurasiyadev" target="_blank">
+  <a href="https://x.com/PranjulatX" target="_blank">
     <img src="assets/link-x.svg" width="48.5%" alt="Twitter / X">
   </a>
 </p>
