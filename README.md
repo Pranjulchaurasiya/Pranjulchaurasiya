@@ -47,10 +47,10 @@
 *   Solves real-time deadlock prevention and multi-variable track constraints.
 *   *Stack:* `TypeScript` · `Gemini AI` · `OR-Tools` · `Firebase` · [Demo](https://studio.firebase.google.com/studio-9777073027)
 
-### ⚡ [Vigil — Adaptive RL Uptime Monitor](https://github.com/Pranjulchaurasiya/vigil)
-*   Uptime monitor utilizing reinforcement learning (Thompson Sampling).
-*   Dynamically optimizes network bandwidth by polling flaky servers frequently and stable ones less often.
-*   *Stack:* `Python` · `FastAPI` · `PostgreSQL` · `Valkey`
+### 📊 [AutoBI AI Analyst](https://github.com/Pranjulchaurasiya/Auto-BI)
+*   Conversational RAG-backed BI pipeline that processes CSVs, Excel, and PDFs.
+*   Generates interactive Plotly dashboards and PDF summaries from plain-English queries.
+*   *Stack:* `Python` · `FastAPI` · `Streamlit` · `LLaMA 3.3` · `ChromaDB` · [Demo](https://bit.ly/autobi-ai-analyst)
 
 ### 📦 [PIMpulse-AI](https://github.com/Pranjulchaurasiya/PIMpulse-AI)
 *   Multi-agent enterprise product enrichment pipeline built for UniHack 2026.
@@ -62,10 +62,11 @@
 *   Proves the mathematical safety of optimal train scheduling sequences.
 *   *Stack:* `Python` · `OR-Tools` · `mCRL2` · `Formal Verification`
 
-### 📊 [AutoBI AI Analyst](https://github.com/Pranjulchaurasiya/Auto-BI)
-*   Conversational RAG-backed BI pipeline that processes CSVs, Excel, and PDFs.
-*   Generates interactive Plotly dashboards and PDF summaries from plain-English queries.
-*   *Stack:* `Python` · `FastAPI` · `Streamlit` · `LLaMA 3.3` · `ChromaDB` · [Demo](https://bit.ly/autobi-ai-analyst)
+### ⚡ [Vigil — Adaptive RL Uptime Monitor](https://github.com/Pranjulchaurasiya/vigil)
+*   Uptime monitor utilizing reinforcement learning (Thompson Sampling).
+*   Dynamically optimizes network bandwidth by polling flaky servers frequently and stable ones less often.
+*   *Stack:* `Python` · `FastAPI` · `PostgreSQL` · `Valkey`
+
 
 ---
 
