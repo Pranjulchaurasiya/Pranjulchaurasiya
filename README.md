@@ -55,7 +55,7 @@
 ### 📦 [PIMpulse-AI](https://github.com/Pranjulchaurasiya/PIMpulse-AI)
 *   Multi-agent enterprise product enrichment pipeline built for UniHack 2026.
 *   Automates onboarding verification, taxonomy schema alignment, and copywriting at scale.
-*   *Stack:* `Python` · `Gemini AI` · `FastAPI` · `Agentic AI`
+*   *Stack:* `Python` · `Gemini AI` · `FastAPI` · `Agentic AI` · [Demo](https://pimpulseai-2998-8000.prg1.zerops.app/)
 
 ### 🛡️ [Safety-Assured Railway Optimization](https://github.com/Pranjulchaurasiya/safety-assured-railway-optimization)
 *   Integrates OR-Tools with formal verification models in **mCRL2**.
