@@ -48,7 +48,7 @@
 *   *Stack:* `TypeScript` · `Gemini AI` · `OR-Tools` · `Firebase` · [Demo](https://studio.firebase.google.com/studio-9777073027)
 
 ### 📊 [AutoBI AI Analyst](https://github.com/Pranjulchaurasiya/Auto-BI)
-*   Conversational RAG-backed BI pipeline that processes CSVs, Excel, and PDFs.
+*   Conversational RAG-backed BI pipeline that processes CSVs and Excel.
 *   Generates interactive Plotly dashboards and PDF summaries from plain-English queries.
 *   *Stack:* `Python` · `FastAPI` · `Streamlit` · `LLaMA 3.3` · `ChromaDB` · [Demo](https://bit.ly/autobi-ai-analyst)
 
