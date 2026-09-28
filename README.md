@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <a href="http://portfolio-pranjulgcet.vercel.app/" target="_blank">
     <img src="assets/hero.svg" alt="Pranjul Chaurasiya — AI & Optimization Specialist" width="100%">
   </a>
@@ -88,3 +88,5 @@
     <img width="98%" src="https://streak-stats.demolab.com/?user=Pranjulchaurasiya&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
+](https://pimpulse-ai.onrender.com/
+https://ask-placement.vercel.app/)
