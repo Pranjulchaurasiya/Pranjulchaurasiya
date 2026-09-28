@@ -31,12 +31,17 @@ Ask in plain English, get a Plotly dashboard and a PDF summary. [Outcome: report
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B5563?style=flat-square)
 
-**[PIMpulse-AI](https://github.com/Pranjulchaurasiya/PIMpulse-AI) ([demo](https://pimpulse-ai.onrender.com/)): product data, commerce-ready**
-Multi-agent pipeline that verifies, classifies and writes catalog content for industrial commerce. [Outcome: X products processed]
+**[Fuse](https://main.d1hndpgpwb40h8.amplifyapp.com/): AI incident remediation on AWS, with human approval**
+Detects anomalies in API traffic and proposes fixes that an operator approves before anything runs. A deterministic z-score pre-filter skips the AI call on normal traffic, cutting Bedrock calls by about 95%. Multi-tenant onboarding via cross-account roles.
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+**[PIMpulse-AI](https://github.com/Pranjulchaurasiya/PIMpulse-AI) ([demo](https://pimpulse-ai.onrender.com/)): product data, commerce-ready**
+Multi-agent pipeline that verifies, classifies and writes catalog content for industrial commerce. Built to process 1000+ product records per run.
 
 **[Train Traffic Decision System](https://github.com/Pranjulchaurasiya/Buildathon-Project) ([demo](https://studio.firebase.google.com/studio-9777073027)): verifiable scheduling**
 Winner, Gemini & Firebase Buildathon 2025. The OR-Tools solver makes the call, the LLM explains it.
