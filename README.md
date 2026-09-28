@@ -17,14 +17,14 @@
 ## Selected work
 
 **[Placement Query Platform](https://ask-placement.vercel.app/): fewer repeat queries for placement cells**
-RAG FAQ bot that answers student queries and escalates to a human ticket when confidence is low. [Outcome: X queries handled, X hrs saved per week]
+RAG FAQ bot that answers student queries and escalates to a human ticket when confidence is low. [Outcome: 100+ queries handled, 20+ hrs saved per week]
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
 
 **[AutoBI AI Analyst](https://github.com/Pranjulchaurasiya/Auto-BI) ([demo](https://bit.ly/autobi-ai-analyst)): from question to dashboard**
-Ask in plain English, get a Plotly dashboard and a PDF summary. [Outcome: report time from X to Y]
+Ask in plain English, get a Plotly dashboard and a PDF summary. [Outcome: report time from 1 day to 1 minute]
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -61,7 +61,7 @@ Winner, Gemini & Firebase Buildathon 2025. The OR-Tools solver makes the call, t
 
 ## How I build with AI
 
-I break the problem down first, then prompt, test and re-prompt. I review every generated diff. Example: [one line on what the AI got wrong and how you caught it].
+I break the problem down first, then prompt, test and re-prompt. I review every generated diff. Example: [I use to catch the hallucinations by using evals methods].
 
 ---
 
