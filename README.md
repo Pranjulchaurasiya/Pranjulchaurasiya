@@ -32,7 +32,7 @@ Ask in plain English, get a Plotly dashboard and a PDF summary. [Outcome: report
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B5563?style=flat-square)
 
 **[Fuse](https://main.d1hndpgpwb40h8.amplifyapp.com/): AI incident remediation on AWS, with human approval**
-Detects anomalies in API traffic and proposes fixes that an operator approves before anything runs. A deterministic z-score pre-filter skips the AI call on normal traffic, cutting Bedrock calls by about 95%. Multi-tenant onboarding via cross-account roles.
+Detects anomalies in API traffic and proposes fixes that an operator approves before anything runs. A deterministic z-score pre-filter skips the AI call on normal traffic, cutting Bedrock calls by about 87%. Multi-tenant onboarding via cross-account roles.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
