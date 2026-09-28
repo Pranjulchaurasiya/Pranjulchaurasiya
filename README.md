@@ -1,6 +1,6 @@
-[<p align="center">
+<p align="center">
   <a href="http://portfolio-pranjulgcet.vercel.app/" target="_blank">
-    <img src="assets/hero.svg" alt="Pranjul Chaurasiya — AI & Optimization Specialist" width="100%">
+    <img src="assets/hero.svg" alt="Pranjul Chaurasiya" width="100%">
   </a>
 </p>
 
@@ -39,34 +39,55 @@
 
 ---
 
-## 🚀 Highlighted Engineering Projects
+## About
 
-### 🚆 [AI-Powered Train Traffic Decision System](https://github.com/Pranjulchaurasiya/Buildathon-Project)
-*   **Winner of the Gemini & Firebase Buildathon 2025**
-*   Constraint-optimization scheduling engine pairing LLM reasoning with Google OR-Tools. 
-*   Solves real-time deadlock prevention and multi-variable track constraints.
-*   *Stack:* `TypeScript` · `Gemini AI` · `OR-Tools` · `Firebase` · [Demo](https://studio.firebase.google.com/studio-9777073027)
+Engineer moving into product. I pick a real problem, write the PRD, build the MVP with AI (Claude, Claude Code, Cursor), ship it, and measure it.
+Final-year B.Tech (AI & Data Science). Placement Coordinator for my department. Joint Secretary of the department club.
 
-### 📊 [AutoBI AI Analyst](https://github.com/Pranjulchaurasiya/Auto-BI)
-*   Conversational RAG-backed BI pipeline that processes CSVs and Excel.
-*   Generates interactive Plotly dashboards and PDF summaries from plain-English queries.
+---
+
+## Products I've Built
+
+### [Placement Query Platform](https://ask-placement.vercel.app/)
+*   **Problem:** The placement cell answers the same student queries again and again, manually.
+*   **Users:** Students and the placement department.
+*   **What I built:** RAG FAQ bot plus ticket escalation for questions it can't answer.
+*   **Decision:** Escalate to a human when confidence is low instead of guessing.
+*   **Outcome:** [X queries handled / X% resolved without staff / X hrs saved per week]
+*   *Stack:* `Python` · `RAG` · `FastAPI` · [Demo](https://ask-placement.vercel.app/)
+
+### [AutoBI AI Analyst](https://github.com/Pranjulchaurasiya/Auto-BI)
+*   **Problem:** Non-technical teams wait on analysts for simple charts and summaries.
+*   **What I built:** Ask in plain English, get a Plotly dashboard and a PDF summary.
+*   **Decision:** RAG over the uploaded data instead of pasting raw data into the LLM, to keep answers grounded.
+*   **Outcome:** [report time from X to Y / X test users]
 *   *Stack:* `Python` · `FastAPI` · `Streamlit` · `LLaMA 3.3` · `ChromaDB` · [Demo](https://bit.ly/autobi-ai-analyst)
 
-### 📦 [PIMpulse-AI](https://github.com/Pranjulchaurasiya/PIMpulse-AI)
-*   Multi-agent enterprise product enrichment pipeline built for UniHack 2026.
-*   Automates onboarding verification, taxonomy schema alignment, and copywriting at scale.
-*   *Stack:* `Python` · `Gemini AI` · `FastAPI` · `Agentic AI` · [Demo](https://pimpulseai-2998-8000.prg1.zerops.app/)
+### [PIMpulse-AI](https://github.com/Pranjulchaurasiya/PIMpulse-AI) (UniHack 2026)
+*   **Problem:** Onboarding product data for industrial commerce is slow and inconsistent.
+*   **What I built:** Multi-agent pipeline for verification, taxonomy alignment and copywriting.
+*   **Decision:** Split into separate agents per task so each step can be checked on its own.
+*   **Outcome:** [X products processed / X% fewer manual fixes]
+*   *Stack:* `Python` · `Gemini AI` · `FastAPI` · `Agentic AI` · [Demo](https://pimpulse-ai.onrender.com/)
 
-### 🛡️ [Safety-Assured Railway Optimization](https://github.com/Pranjulchaurasiya/safety-assured-railway-optimization)
-*   Integrates OR-Tools with formal verification models in **mCRL2**.
-*   Proves the mathematical safety of optimal train scheduling sequences.
-*   *Stack:* `Python` · `OR-Tools` · `mCRL2` · `Formal Verification`
+### [AI-Powered Train Traffic Decision System](https://github.com/Pranjulchaurasiya/Buildathon-Project)
+*   **Winner, Gemini & Firebase Buildathon 2025**
+*   **Problem:** Controllers make rescheduling calls under time pressure with many constraints.
+*   **What I built:** LLM reasoning plus OR-Tools to suggest conflict-free schedules.
+*   **Decision:** The solver decides, the LLM explains, so the output is verifiable.
+*   *Stack:* `TypeScript` · `Gemini AI` · `OR-Tools` · `Firebase` · [Demo](https://studio.firebase.google.com/studio-9777073027)
 
-### ⚡ [Vigil — Adaptive RL Uptime Monitor](https://github.com/Pranjulchaurasiya/vigil)
-*   Uptime monitor utilizing reinforcement learning (Thompson Sampling).
-*   Dynamically optimizes network bandwidth by polling flaky servers frequently and stable ones less often.
-*   *Stack:* `Python` · `FastAPI` · `PostgreSQL` · `Valkey`
+### More engineering
+*   [Safety-Assured Railway Optimization](https://github.com/Pranjulchaurasiya/safety-assured-railway-optimization): OR-Tools + mCRL2 formal verification
+*   [Vigil](https://github.com/Pranjulchaurasiya/vigil): Thompson Sampling uptime monitor (FastAPI, Postgres, Valkey)
 
+---
+
+## How I Build With AI
+
+*   I break the problem down first, then prompt, test, and re-prompt.
+*   I review every generated diff. I never ship it blind.
+*   **Example:** [One line: what the AI got wrong (bug, bad schema, hallucinated API), how you caught it, what you changed.]
 
 ---
 
@@ -76,10 +97,10 @@
 
 <p align="center">
   <a href="https://github.com/Pranjulchaurasiya">
-    <img width="48.5%" src="https://github-readme-stats.shion.dev/api?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="Pranjul Chaurasiya's GitHub Stats">
+    <img width="48.5%" src="https://github-readme-stats.shion.dev/api?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
   </a>&nbsp;
   <a href="https://github.com/Pranjulchaurasiya">
-    <img width="48.5%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&layout=compact" alt="Pranjul Chaurasiya's Top Languages">
+    <img width="48.5%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjulchaurasiya&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
   </a>
 </p>
 
@@ -88,5 +109,3 @@
     <img width="98%" src="https://streak-stats.demolab.com/?user=Pranjulchaurasiya&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
-](https://pimpulse-ai.onrender.com/
-https://ask-placement.vercel.app/)
